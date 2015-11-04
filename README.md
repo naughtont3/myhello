@@ -6,6 +6,7 @@ Simple 'hello world' test project for autotools, etc.
 The pthread example is just to demonstrate having a 
 library dependency for autotool-ing.
 
+https://github.com/naughtont3/myhello
 
 BUILD
 -----
