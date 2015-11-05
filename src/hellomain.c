@@ -1,4 +1,5 @@
-/* $Id: hellomain.c 1821 2011-03-23 03:37:37Z tjn $
+/* 
+ * (note: git import from hellomain.c @ r1821) 
  *
  * Based on Autotool Tutorial by Alexandre Duret-Lutz (updated: May 16, 2010)
  *
