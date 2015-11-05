@@ -1,5 +1,5 @@
 /* 
- * (note: git import from hellomain.c @ r1821) 
+ * Note: git import taken from hellomain.c @ r1821. 
  *
  * Based on Autotool Tutorial by Alexandre Duret-Lutz (updated: May 16, 2010)
  *
